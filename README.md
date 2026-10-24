@@ -1,2 +1,3 @@
 # Asd--practical 
-# First commit
+# testing jira github connection
+
